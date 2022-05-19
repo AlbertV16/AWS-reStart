@@ -1,0 +1,8 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US West (Oregon),,Amazon EC2,0,19.183999999999997,230.21,USD,"Operating system (Linux), Storage amount (40 GB), DT Inbound: Not selected (0 TB per month), DT Outbound: Not selected (0 TB per month), DT Intra-Region: (0 TB per month), Workload (Consistent, Number of instances: 1), Snapshot Frequency (No snapshot storage), Advance EC2 instance (t3.small), Pricing strategy (On-Demand)"
+My Estimate,US West (Oregon),,Amazon RDS for MariaDB,0,14.71,176.52,USD,"Storage volume (General Purpose SSD (gp2)), Storage amount (20 GB per month), Quantity (1), Instance type (db.t3.micro), Utilization (On-Demand only) (100 %Utilized/Month), Deployment selection (Single-AZ), Pricing strategy (OnDemand)"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
