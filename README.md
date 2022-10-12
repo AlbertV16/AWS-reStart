@@ -1,2 +1,2 @@
-# vsCodeTest
-Repo for learning to use Visual Studio Code
+# AWS re/Start labs
+Repo used for doing the AWS re/Start labs
